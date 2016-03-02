@@ -13,7 +13,6 @@
 ||
 */
 
-#include <Arduino.h>
 #include "Button.h"
 
 #define CURRENT 0
